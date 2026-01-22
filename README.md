@@ -1,6 +1,6 @@
 # 👨🏻‍💻 **Desenvolvedor Web Front-end | HTML | CSS | JavaScript**  
 
-Me chamo **Nikolas Fernandes**, tenho 17 anos e sou desenvolvedor Front-end júnior com foco em construir interfaces modernas, funcionais e bem estruturadas.
+Me chamo **Nikolas Fernandes**, tenho 23 anos e sou desenvolvedor Front-end júnior com foco em construir interfaces modernas, funcionais e bem estruturadas.
 
 Sou movido por curiosidade e paixão por tecnologia. Estou constantemente estudando novas ferramentas, linguagens e boas práticas para evoluir como profissional e criar soluções que geram impacto real.
 
